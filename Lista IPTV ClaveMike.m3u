@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ClaveMike" tvg-name="ClaveMike" tvg-logo="blob:https://web.telegram.org/a22a51d6-8bf9-44a6-9ddf-95a90b26231b" group-title="APOYAME",ClaveMike
-https://stream-4991-212-110.pvdcdn.co/jqohoik5gyikkfn2mdmpqiaogp5qh4ldcwy2dgo54pdq2uwu3sf5pdeqlq/v.mp4
+https://app.viloud.tv/hls/channel/4bde22cfd636bf010ca0950285e54292.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN La Liga" tvg-logo="https://www.culemania.com/uploads/s1/19/90/35/60/dazn-la-liga-y-movistar-en-un-fotomontaje-culemania.jpeg" group-title="DEPORTES H265 SAT",DAZN La Liga 
 http://lamejor.selfip.org:8000/Samuel/Samuel2022/192407
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 EVENTO" tvg-logo="" group-title="DEPORTES DAZN",DANZ 1 EVENTO
