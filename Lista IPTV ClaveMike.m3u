@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="First Dates" tvg-name="First Dates" tvg-logo="https://img2.rtve.es/v/6468392/vertical/?h=400" group-title="Peliculas", First Dates
-https://www.cuatro.com/firstdates/alacarta/20230913/ver-programa-online-completo_18_010446728.html?amp=true
+https://vbd.mediaset.es/orivod/vod/bitmovin/ad/0c/ad0c6655-6079-4c28-8eb1-25f6e10fb1f6/main.ism/main-audio_eng=125368-video=3984840.m3u8?hdntl=exp=1695157372~acl=/*~data=hdntl~hmac=69ca91f7714230a5adf619e1a554923e6afd6af247c685645837478c34bf765a
 #EXTINF:-1 tvg-id="Cinco horas con Mario" tvg-name="Cinco horas con Mario" tvg-logo="https://img2.rtve.es/v/6468392/vertical/?h=400" group-title="Peliculas", Cinco horas con Mario
 https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SL2ESTE/mp4/8/8/1648417924388.mp4/1648417924388-audio=192426-video=2753000.m3u8?idasset=6468392
 #EXTINF:-1 tvg-id="ClaveMike" tvg-name="ClaveMike" tvg-logo="blob:https://web.telegram.org/a22a51d6-8bf9-44a6-9ddf-95a90b26231b" group-title="APOYAME",ClaveMike
